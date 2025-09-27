@@ -1,0 +1,16 @@
+# Direktori build Next.js
+.next
+# Node modules
+node_modules
+# File log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+# Variabel lingkungan
+.env
+.env.local
+.env.production
+.env.development
+# File IDE
+.vscode
+.idea
